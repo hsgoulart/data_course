@@ -1,47 +1,47 @@
-Analise descritiva 
-Apache 
-Cloudera 
-Cloudera 
-Clustering 
-Clustering 
-Databricks 
-Decision Tree 
-Estatistica 
-Estatistica 
-ETL 
-Excel 
-Flume 
-Gradient Boosting 
-Hadoop 
-Hive 
-Kafka 
-Liner Regression 
-Linguagem R 
-Linguagem R 
-Logistic Regression 
-Machine learning 
-Machine learning 
-MySQL 
-Neural Networks 
-Nifi 
-Oracle 
-Postgress 
-Power BI 
-Pyspark 
-Python 
-Python 
-Python 
-Raciocinio logico 
-Random Forest 
-SAS 
-SAS 
-Scala 
-Spark 
-SPSS 
-SQL 
-SQL 
-SQL 
-SQL Server 
-Sqoop 
-Synapse 
-Visualizacao de dados
+Analise_descritiva
+Apache
+Cloudera
+Cloudera
+Clustering
+Clustering
+Databricks
+Decision_Tree
+Estatistica
+Estatistica
+ETL
+Excel
+Flume
+Gradient_Boosting
+Hadoop
+Hive
+Kafka
+Liner_Regression
+Linguagem_R
+Linguagem_R
+Logistic_Regression
+Machine_learning
+Machine_learning
+MySQL
+Neural_Networks
+Nifi
+Oracle
+Postgress
+Power_BI
+Pyspark
+Python
+Python
+Python
+Raciocinio_logico
+Random_Forest
+SAS
+SAS
+Scala
+Spark
+SPSS
+SQL
+SQL
+SQL
+SQL_Server
+Sqoop
+Synapse
+Visualizacao_de_dados
